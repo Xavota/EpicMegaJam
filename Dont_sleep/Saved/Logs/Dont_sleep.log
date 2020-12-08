@@ -1418,3 +1418,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.12.08-21.26.42:673][848]SourceControl: Source control is disabled
 [2020.12.08-21.27.54:352][201]SourceControl: Source control is disabled
 [2020.12.08-21.28.00:479][872]LogSlate: Window 'Source Control Login' being destroyed
+[2020.12.08-21.35.04:149][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.12.08-21.35.04:168][742]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Axel/Axel_work' took 0.045
+[2020.12.08-21.45.13:636][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.12.08-21.45.13:639][560]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Axel/Axel_work' took 0.032

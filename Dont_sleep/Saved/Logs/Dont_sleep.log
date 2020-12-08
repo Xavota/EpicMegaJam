@@ -809,3 +809,558 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.12.08-19.18.20:156][582]LogFileHelpers: Loading map 'Axel_work' took 0.124
 [2020.12.08-19.18.20:191][582]AssetCheck: New page: Asset Save: Axel_work
 [2020.12.08-19.18.20:191][582]LogContentValidation: Display: Validating World /Game/Axel/Axel_work.Axel_work
+[2020.12.08-19.22.40:273][564]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2020.12.08-19.23.11:303][393]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2020.12.08-19.23.26:087][278]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2020.12.08-19.23.47:472][552]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2020.12.08-19.23.51:381][785]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2020.12.08-19.28.17:775][572]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.12.08-19.28.17:789][572]LogSavePackage: Moving '../../../../Users/axels/OneDrive/Documentos/GIT-progra3/Git-ppa/EpicMegaJam/Dont_sleep/Saved/Axel_work_Auto10E3E27E3459CD0A1FA49D3A937FAE9FA.tmp' to '../../../../Users/axels/OneDrive/Documentos/GIT-progra3/Git-ppa/EpicMegaJam/Dont_sleep/Saved/Autosaves/Game/Axel/Axel_work_Auto1.umap'
+[2020.12.08-19.28.17:790][572]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Axel/Axel_work' took 0.038
+[2020.12.08-19.28.17:790][572]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.038
+[2020.12.08-19.33.46:004][993]LogMaterial: Display: Missing cached shader map for material LayerVisMaterial, compiling. 
+[2020.12.08-19.33.46:033][993]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.12.08-19.33.46:033][993]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.12.08-19.33.46:033][993]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.12.08-19.33.46:033][993]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2020.12.08-19.33.46:052][993]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2020.12.08-19.33.46:073][993]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2020.12.08-19.33.46:073][993]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2020.12.08-19.33.46:093][993]LogMaterial: Display: Missing cached shader map for material ColorMaskBrushMaterial, compiling. 
+[2020.12.08-19.33.46:105][993]LogMaterial: Display: Missing cached shader map for material LandscapeDirtyMaterial, compiling. 
+[2020.12.08-19.33.46:121][993]LogMaterial: Display: Missing cached shader map for material LandscapeLayerUsageMaterial, compiling. 
+[2020.12.08-19.33.46:149][993]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2020.12.08-19.33.46:162][993]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2020.12.08-19.33.46:175][993]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2020.12.08-19.33.46:189][993]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2020.12.08-19.33.46:204][993]LogMaterial: Display: Missing cached shader map for material AlphaBrushMaterial, compiling. 
+[2020.12.08-19.33.46:220][993]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2020.12.08-19.33.46:232][993]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2020.12.08-19.33.46:249][993]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2020.12.08-19.33.47:085][ 35]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 217
+[2020.12.08-19.33.47:508][ 51]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 207
+[2020.12.08-19.33.47:591][ 52]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 197
+[2020.12.08-19.33.50:101][178]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 187
+[2020.12.08-19.33.54:062][393]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 177
+[2020.12.08-19.33.54:618][421]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 167
+[2020.12.08-19.33.55:106][448]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 157
+[2020.12.08-19.33.58:752][651]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 147
+[2020.12.08-19.34.01:112][778]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 137
+[2020.12.08-19.34.02:263][840]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 127
+[2020.12.08-19.34.02:350][845]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 117
+[2020.12.08-19.34.05:620][ 22]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 107
+[2020.12.08-19.34.07:217][108]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 97
+[2020.12.08-19.34.09:352][224]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 87
+[2020.12.08-19.34.11:284][328]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 77
+[2020.12.08-19.34.13:258][433]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 67
+[2020.12.08-19.34.14:258][487]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 57
+[2020.12.08-19.34.16:630][616]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 47
+[2020.12.08-19.34.18:430][712]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 37
+[2020.12.08-19.34.20:926][850]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 27
+[2020.12.08-19.34.21:317][872]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2020.12.08-19.34.24:295][ 39]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2020.12.08-19.34.25:451][100]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.12.08-19.34.25:879][123]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.12.08-19.34.26:893][179]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.12.08-19.34.27:026][187]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.12.08-19.34.27:308][202]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.12.08-19.34.27:782][226]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.12.08-19.47.27:901][682]LogSlate: WidgetSwitcher ('None') active index changed to 2
+[2020.12.08-19.47.28:887][780]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.12.08-19.49.48:972][629]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.12.08-19.49.48:975][629]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Beveled, compiling. 
+[2020.12.08-19.49.49:100][629]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 44
+[2020.12.08-19.49.49:100][629]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 34
+[2020.12.08-19.49.49:100][629]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2020.12.08-19.49.49:100][629]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2020.12.08-19.49.49:184][629]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.12.08-19.49.54:668][934]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.12.08-19.49.55:784][  4]LogSlate: WidgetSwitcher ('None') active index changed to 2
+[2020.12.08-19.49.57:293][ 88]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.12.08-19.49.57:806][119]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.12.08-19.49.58:264][146]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.12.08-19.50.29:357][228]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.12.08-19.50.32:991][597]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.12.08-19.50.51:236][392]LogSlate: WidgetSwitcher ('None') active index changed to 2
+[2020.12.08-19.51.03:983][605]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2020.12.08-19.51.12:544][327]LogMaterial: Display: Missing cached shader map for material M_AssetPlatform, compiling. 
+[2020.12.08-19.51.12:568][327]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 44
+[2020.12.08-19.51.12:568][327]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 34
+[2020.12.08-19.51.12:568][327]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2020.12.08-19.51.12:568][327]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2020.12.08-19.51.21:614][776]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.12.08-19.51.22:053][793]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.12.08-19.51.22:493][815]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.12.08-19.51.30:617][467]LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling. 
+[2020.12.08-19.51.30:663][467]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 44
+[2020.12.08-19.51.30:663][467]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 34
+[2020.12.08-19.51.30:663][467]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2020.12.08-19.51.30:663][467]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2020.12.08-19.51.38:631][923]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.12.08-19.51.39:312][964]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.12.08-19.51.39:778][992]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.12.08-19.51.57:332][659]MapCheck: New page: Map Check
+[2020.12.08-19.51.57:368][659]LightingResults: New page: Lighting Build - Dec 8, 2020, 7:51:57 AM
+[2020.12.08-19.51.57:530][659]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.12.08-19.51.57:686][659]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.12.08-19.51.57:707][659]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.12.08-19.51.59:237][659]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.12.08-19.51.59:237][659]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10924
+[2020.12.08-19.52.06:242][659]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2020.12.08-19.52.06:242][659]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.12.08-19.52.06:243][659]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.12.08-19.52.06:243][659]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.12.08-19.52.06:243][659]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.12.08-19.52.06:243][659]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.12.08-19.52.06:442][659]LogEditorBuildUtils: Build time 0:09
+[2020.12.08-19.52.06:447][659]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.12.08-19.52.06:451][659]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.12.08-19.52.06:454][659]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_133, compiling. 
+[2020.12.08-19.52.06:456][659]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_133, compiling. 
+[2020.12.08-19.52.06:496][659]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.12.08-19.52.06:496][659]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.12.08-19.52.06:496][659]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.12.08-19.52.06:496][659]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.12.08-19.52.07:695][662]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.12.08-19.52.09:444][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2020.12.08-19.52.21:481][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.12.08-19.52.21:599][457]LogSavePackage: Moving '../../../../Users/axels/OneDrive/Documentos/GIT-progra3/Git-ppa/EpicMegaJam/Dont_sleep/Saved/Axel_work_Auto21F0197364639AC3DB18286A8C83E758D.tmp' to '../../../../Users/axels/OneDrive/Documentos/GIT-progra3/Git-ppa/EpicMegaJam/Dont_sleep/Saved/Autosaves/Game/Axel/Axel_work_Auto2.umap'
+[2020.12.08-19.52.21:601][457]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Axel/Axel_work' took 0.143
+[2020.12.08-19.52.21:601][457]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.143
+[2020.12.08-19.52.27:786][834]Job is a success!
+[2020.12.08-19.52.28:143][835]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.192s
+[2020.12.08-19.52.28:143][835]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2020.12.08-19.52.28:143][835]LogVolumetricLightmapImport:      BrickData (all levels) 3.8Mb
+[2020.12.08-19.52.28:143][835]LogVolumetricLightmapImport:      Bricks at depth
+[2020.12.08-19.52.28:143][835]LogVolumetricLightmapImport:          0: 1.1% covering 100.0% of volume
+[2020.12.08-19.52.28:143][835]LogVolumetricLightmapImport:          1: 6.7% covering 9.6% of volume
+[2020.12.08-19.52.28:143][835]LogVolumetricLightmapImport:          2: 92.2% covering 2.1% of volume
+[2020.12.08-19.52.28:143][835]LogVolumetricLightmapImport:      Bricks in each level
+[2020.12.08-19.52.28:143][835]LogVolumetricLightmapImport:          Axel_work 			 733 bricks 	 100.0% (Persistent Level)
+[2020.12.08-19.52.28:449][835]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 256X128)
+[2020.12.08-19.52.28:449][835]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2020.12.08-19.52.28:449][835]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 256X128)
+[2020.12.08-19.52.28:449][835]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2020.12.08-19.52.28:449][835]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 256X256)
+[2020.12.08-19.52.28:449][835]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 256X256)
+[2020.12.08-19.52.28:449][835]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 256X128)
+[2020.12.08-19.52.28:449][835]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 256X256)
+[2020.12.08-19.52.28:449][835]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 256X256)
+[2020.12.08-19.52.28:449][835]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 256X128)
+[2020.12.08-19.52.28:449][835]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 256X256)
+[2020.12.08-19.52.28:450][835]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 256X256)
+[2020.12.08-19.52.28:450][835]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 256X128)
+[2020.12.08-19.52.28:450][835]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 256X256)
+[2020.12.08-19.52.28:450][835]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 256X256)
+[2020.12.08-19.52.28:450][835]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 256X128)
+[2020.12.08-19.52.28:450][835]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 256X256)
+[2020.12.08-19.52.28:450][835]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 256X256)
+[2020.12.08-19.52.28:450][835]LogTexture: Display: Building textures: SkyOcclusion0_7 (AutoDXT, 256X128)
+[2020.12.08-19.52.28:450][835]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 256X256)
+[2020.12.08-19.52.28:450][835]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 256X256)
+[2020.12.08-19.52.28:450][835]LogTexture: Display: Building textures: SkyOcclusion0_8 (AutoDXT, 256X128)
+[2020.12.08-19.52.28:450][835]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 256X256)
+[2020.12.08-19.52.28:450][835]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 256X256)
+[2020.12.08-19.52.28:450][835]LogTexture: Display: Building textures: SkyOcclusion0_9 (AutoDXT, 256X128)
+[2020.12.08-19.52.28:450][835]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 256X256)
+[2020.12.08-19.52.28:450][835]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 256X256)
+[2020.12.08-19.52.28:450][835]LogTexture: Display: Building textures: SkyOcclusion0_10 (AutoDXT, 256X128)
+[2020.12.08-19.52.28:450][835]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 256X256)
+[2020.12.08-19.52.28:450][835]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 256X256)
+[2020.12.08-19.52.28:450][835]LogTexture: Display: Building textures: SkyOcclusion0_11 (AutoDXT, 256X128)
+[2020.12.08-19.52.28:450][835]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 256X256)
+[2020.12.08-19.52.28:450][835]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 256X256)
+[2020.12.08-19.52.28:450][835]LogTexture: Display: Building textures: SkyOcclusion0_12 (AutoDXT, 256X128)
+[2020.12.08-19.52.28:450][835]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 256X256)
+[2020.12.08-19.52.28:450][835]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 256X256)
+[2020.12.08-19.52.28:450][835]LogTexture: Display: Building textures: SkyOcclusion0_13 (AutoDXT, 256X128)
+[2020.12.08-19.52.28:450][835]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 256X256)
+[2020.12.08-19.52.28:450][835]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 256X256)
+[2020.12.08-19.52.28:451][835]LogTexture: Display: Building textures: SkyOcclusion0_14 (AutoDXT, 256X128)
+[2020.12.08-19.52.28:451][835]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 256X256)
+[2020.12.08-19.52.28:451][835]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 256X256)
+[2020.12.08-19.52.28:451][835]LogTexture: Display: Building textures: SkyOcclusion0_15 (AutoDXT, 256X128)
+[2020.12.08-19.52.28:451][835]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 256X256)
+[2020.12.08-19.52.28:451][835]LogTexture: Display: Building textures: SkyOcclusion0_16 (AutoDXT, 256X128)
+[2020.12.08-19.52.28:451][835]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 256X256)
+[2020.12.08-19.52.28:451][835]LogTexture: Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 256X256)
+[2020.12.08-19.52.28:451][835]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (DXT1, 256X256)
+[2020.12.08-19.52.28:451][835]LogTexture: Display: Building textures: SkyOcclusion0_17 (AutoDXT, 256X128)
+[2020.12.08-19.52.28:451][835]LogTexture: Display: Building textures: HQ_Lightmap0_17 (AutoDXT, 256X256)
+[2020.12.08-19.52.28:451][835]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (DXT1, 256X256)
+[2020.12.08-19.52.28:451][835]LogTexture: Display: Building textures: SkyOcclusion0_18 (AutoDXT, 256X128)
+[2020.12.08-19.52.28:451][835]LogTexture: Display: Building textures: HQ_Lightmap0_18 (AutoDXT, 256X256)
+[2020.12.08-19.52.28:451][835]LogTexture: Display: Building textures: LQ_Lightmap_0_18 (DXT1, 256X256)
+[2020.12.08-19.52.28:451][835]LogTexture: Display: Building textures: SkyOcclusion0_19 (AutoDXT, 256X128)
+[2020.12.08-19.52.28:451][835]LogTexture: Display: Building textures: HQ_Lightmap0_19 (AutoDXT, 256X256)
+[2020.12.08-19.52.28:451][835]LogTexture: Display: Building textures: LQ_Lightmap_0_19 (DXT1, 256X256)
+[2020.12.08-19.52.28:451][835]LogTexture: Display: Building textures: SkyOcclusion0_20 (AutoDXT, 128X64)
+[2020.12.08-19.52.28:451][835]LogTexture: Display: Building textures: HQ_Lightmap0_20 (AutoDXT, 128X128)
+[2020.12.08-19.52.28:451][835]LogTexture: Display: Building textures: LQ_Lightmap_0_20 (DXT1, 128X128)
+[2020.12.08-19.52.28:451][835]LogTexture: Display: Building textures: SkyOcclusion0_21 (AutoDXT, 256X128)
+[2020.12.08-19.52.28:451][835]LogTexture: Display: Building textures: HQ_Lightmap0_21 (AutoDXT, 256X256)
+[2020.12.08-19.52.28:451][835]LogTexture: Display: Building textures: LQ_Lightmap_0_21 (DXT1, 256X256)
+[2020.12.08-19.52.28:451][835]LogTexture: Display: Building textures: SkyOcclusion0_22 (AutoDXT, 128X64)
+[2020.12.08-19.52.28:451][835]LogTexture: Display: Building textures: HQ_Lightmap0_22 (AutoDXT, 128X128)
+[2020.12.08-19.52.28:451][835]LogTexture: Display: Building textures: LQ_Lightmap_0_22 (DXT1, 128X128)
+[2020.12.08-19.52.28:451][835]LogTexture: Display: Building textures: SkyOcclusion0_23 (AutoDXT, 64X32)
+[2020.12.08-19.52.28:451][835]LogTexture: Display: Building textures: HQ_Lightmap0_23 (AutoDXT, 64X64)
+[2020.12.08-19.52.28:451][835]LogTexture: Display: Building textures: LQ_Lightmap_0_23 (DXT1, 64X64)
+[2020.12.08-19.52.28:731][835]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 256X64)
+[2020.12.08-19.52.28:732][835]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 256X64)
+[2020.12.08-19.52.28:732][835]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 256X64)
+[2020.12.08-19.52.28:732][835]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 256X64)
+[2020.12.08-19.52.28:732][835]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 256X64)
+[2020.12.08-19.52.28:732][835]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 256X64)
+[2020.12.08-19.52.28:732][835]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 256X64)
+[2020.12.08-19.52.28:732][835]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 256X64)
+[2020.12.08-19.52.28:732][835]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 256X64)
+[2020.12.08-19.52.28:732][835]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 256X64)
+[2020.12.08-19.52.28:732][835]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 256X64)
+[2020.12.08-19.52.28:732][835]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 256X64)
+[2020.12.08-19.52.28:732][835]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 256X64)
+[2020.12.08-19.52.28:732][835]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 256X64)
+[2020.12.08-19.52.28:732][835]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (G8, 256X64)
+[2020.12.08-19.52.28:732][835]LogTexture: Display: Building textures: ShadowMapTexture2D_19 (G8, 64X64)
+[2020.12.08-19.52.28:732][835]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (G8, 256X64)
+[2020.12.08-19.52.28:732][835]LogTexture: Display: Building textures: ShadowMapTexture2D_22 (G8, 32X32)
+[2020.12.08-19.52.28:732][835]LogTexture: Display: Building textures: ShadowMapTexture2D_21 (G8, 64X64)
+[2020.12.08-19.52.28:732][835]LogTexture: Display: Building textures: ShadowMapTexture2D_18 (G8, 256X64)
+[2020.12.08-19.52.28:732][835]LogTexture: Display: Building textures: ShadowMapTexture2D_20 (G8, 256X64)
+[2020.12.08-19.52.28:732][835]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 256X64)
+[2020.12.08-19.52.28:732][835]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (G8, 256X64)
+[2020.12.08-19.52.28:732][835]Lightmass on MSI: 18.0 sec total, 502 ms importing, 370 ms setup, 4.02 sec photons, 13.1 sec processing, 0 ms extra exporting [65/65 mappings]. Threads: 1:31 min total, 37.5 sec processing.
+[2020.12.08-19.52.28:764][835]LogStaticLightingSystem: Axel_work_BuiltData storing lightmap data for 65 meshes in 23 LightmapResourceClusters (2.8 Meshes per cluster).
+[2020.12.08-19.52.28:866][835]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2020.12.08-19.52.28:893][835]LogStaticLightingSystem: Illumination: 31.4 sec (269 ms encoding lightmaps, 53 ms encoding shadowmaps)
+[2020.12.08-19.52.28:893][835]LogStaticLightingSystem: Lightmap texture memory:  3.0 MB (3.0 MB streaming, 0.0 MB non-streaming), 46 textures
+[2020.12.08-19.52.28:893][835]LogStaticLightingSystem: Shadowmap texture memory: 0.4 MB (0.4 MB streaming, 0.0 MB non-streaming), 23 textures
+[2020.12.08-19.52.34:265][835]DumpUnbuiltLightIteractions
+[2020.12.08-19.52.34:266][835]Lights with unbuilt interactions: 0
+[2020.12.08-19.52.34:266][835]
+[2020.12.08-19.52.34:266][835]Primitives with unbuilt interactions: 0
+[2020.12.08-19.52.34:401][836]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.12.08-19.52.34:401][836]MapCheck: New page: Axel_work - Dec 8, 2020, 7:52:34 AM
+[2020.12.08-19.52.34:402][836]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.266ms to complete.
+[2020.12.08-19.52.37:424][ 89]LogSlate: Window 'Message Log' being destroyed
+[2020.12.08-19.52.37:430][ 89]LogSlate: Window 'Message Log' being destroyed
+[2020.12.08-19.52.59:465][ 82]LogMaterial: Display: Missing cached shader map for material M_Basic_Floor, compiling. 
+[2020.12.08-19.52.59:496][ 82]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 44
+[2020.12.08-19.52.59:496][ 82]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 34
+[2020.12.08-19.52.59:496][ 82]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2020.12.08-19.52.59:496][ 82]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2020.12.08-19.53.07:926][571]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.12.08-19.53.08:685][616]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.12.08-19.53.09:150][645]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.12.08-19.54.53:924][140]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2020.12.08-19.54.54:716][217]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.12.08-19.54.55:374][282]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.12.08-19.54.56:662][412]Cmd: SELECT NONE
+[2020.12.08-19.55.21:106][825]Cmd: SELECT NONE
+[2020.12.08-19.55.24:969][216]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.08-19.55.24:984][216]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.08-19.55.24:985][216]PIE: New page: PIE session: Axel_work (Dec 8, 2020, 7:55:24 AM)
+[2020.12.08-19.55.24:990][216]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.12.08-19.55.24:992][216]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.12.08-19.55.24:993][216]LogPlayLevel: Creating play world package: /Game/Axel/UEDPIE_0_Axel_work
+[2020.12.08-19.55.25:009][216]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015826s)
+[2020.12.08-19.55.25:011][216]LogAIModule: Creating AISystem for world Axel_work
+[2020.12.08-19.55.25:011][216]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001BAE64D6000), frame # 132216
+[2020.12.08-19.55.25:011][216]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001BAE66BA840), frame # 132216
+[2020.12.08-19.55.25:011][216]LogPlayLevel: PIE: World Init took: (0.001897s)
+[2020.12.08-19.55.25:011][216]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Axel/Axel_work.Axel_work to /Game/Axel/UEDPIE_0_Axel_work.Axel_work (0.018326s)
+[2020.12.08-19.55.25:041][216]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.12.08-19.55.25:045][216]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.08-19.55.25:045][216]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.08-19.55.25:045][216]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.08-19.55.25:045][216]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.08-19.55.25:045][216]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.08-19.55.25:045][216]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.08-19.55.25:045][216]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.08-19.55.25:045][216]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.08-19.55.25:046][216]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.08-19.55.25:046][216]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.08-19.55.25:051][216]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.08-19.55.25:051][216]LogAudioMixer: Display: 1: FrontRight
+[2020.12.08-19.55.25:051][216]LogAudioMixer: Display: 2: FrontCenter
+[2020.12.08-19.55.25:051][216]LogAudioMixer: Display: 3: LowFrequency
+[2020.12.08-19.55.25:051][216]LogAudioMixer: Display: 4: BackLeft
+[2020.12.08-19.55.25:051][216]LogAudioMixer: Display: 5: BackRight
+[2020.12.08-19.55.25:051][216]LogAudioMixer: Display: 6: SideLeft
+[2020.12.08-19.55.25:051][216]LogAudioMixer: Display: 7: SideRight
+[2020.12.08-19.55.25:091][216]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.12.08-19.55.25:091][216]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.08-19.55.25:091][216]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.08-19.55.25:091][216]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.08-19.55.25:092][216]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.08-19.55.25:106][216]LogInit: FAudioDevice initialized.
+[2020.12.08-19.55.25:120][216]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.12.08-19.55.25:128][216]LogWorld: Bringing World /Game/Axel/UEDPIE_0_Axel_work.Axel_work up for play (max tick rate 0) at 2020.12.08-13.55.25
+[2020.12.08-19.55.25:133][216]LogWorld: Bringing up level for play took: 0.006772
+[2020.12.08-19.55.25:134][216]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2020.12.08-19.55.25:147][216]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2020.12.08-19.55.25:153][216]PIE: Server logged in
+[2020.12.08-19.55.25:154][216]PIE: Play in editor total start time 0.175 seconds.
+[2020.12.08-19.55.29:225][630]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.08-19.55.29:225][630]LogWorld: BeginTearingDown for /Game/Axel/UEDPIE_0_Axel_work
+[2020.12.08-19.55.29:226][630]LogWorld: UWorld::CleanupWorld for Axel_work, bSessionEnded=true, bCleanupResources=true
+[2020.12.08-19.55.29:227][630]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.08-19.55.29:237][630]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.08-19.55.29:242][630]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.08-19.55.29:310][630]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.08-19.55.29:328][630]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001BAE64D6000), frame # 132630
+[2020.12.08-19.55.29:328][630]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001BAE66BA840), frame # 132630
+[2020.12.08-19.55.29:347][630]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2020.12.08-19.55.29:369][631]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.12.08-19.55.39:525][612]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.12.08-19.55.55:969][335]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.12.08-19.55.59:004][620]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.08-19.55.59:016][620]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.08-19.55.59:016][620]PIE: New page: PIE session: Axel_work (Dec 8, 2020, 7:55:59 AM)
+[2020.12.08-19.55.59:060][620]LogPlayLevel: Creating play world package: /Game/Axel/UEDPIE_0_Axel_work
+[2020.12.08-19.55.59:072][620]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012326s)
+[2020.12.08-19.55.59:073][620]LogAIModule: Creating AISystem for world Axel_work
+[2020.12.08-19.55.59:073][620]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001BAC373C200), frame # 135620
+[2020.12.08-19.55.59:073][620]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001BAE66BAE80), frame # 135620
+[2020.12.08-19.55.59:073][620]LogPlayLevel: PIE: World Init took: (0.000959s)
+[2020.12.08-19.55.59:073][620]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Axel/Axel_work.Axel_work to /Game/Axel/UEDPIE_0_Axel_work.Axel_work (0.013427s)
+[2020.12.08-19.55.59:100][620]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2020.12.08-19.55.59:103][620]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.08-19.55.59:103][620]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.08-19.55.59:103][620]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.08-19.55.59:103][620]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.08-19.55.59:103][620]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.08-19.55.59:103][620]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.08-19.55.59:103][620]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.08-19.55.59:103][620]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.08-19.55.59:103][620]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.08-19.55.59:103][620]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.08-19.55.59:107][620]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.08-19.55.59:107][620]LogAudioMixer: Display: 1: FrontRight
+[2020.12.08-19.55.59:107][620]LogAudioMixer: Display: 2: FrontCenter
+[2020.12.08-19.55.59:107][620]LogAudioMixer: Display: 3: LowFrequency
+[2020.12.08-19.55.59:107][620]LogAudioMixer: Display: 4: BackLeft
+[2020.12.08-19.55.59:107][620]LogAudioMixer: Display: 5: BackRight
+[2020.12.08-19.55.59:107][620]LogAudioMixer: Display: 6: SideLeft
+[2020.12.08-19.55.59:107][620]LogAudioMixer: Display: 7: SideRight
+[2020.12.08-19.55.59:145][620]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.12.08-19.55.59:146][620]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.08-19.55.59:146][620]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.08-19.55.59:146][620]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.08-19.55.59:146][620]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.08-19.55.59:159][620]LogInit: FAudioDevice initialized.
+[2020.12.08-19.55.59:165][620]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.12.08-19.55.59:167][620]LogWorld: Bringing World /Game/Axel/UEDPIE_0_Axel_work.Axel_work up for play (max tick rate 0) at 2020.12.08-13.55.59
+[2020.12.08-19.55.59:167][620]LogWorld: Bringing up level for play took: 0.001627
+[2020.12.08-19.55.59:167][620]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2020.12.08-19.55.59:170][620]PIE: Server logged in
+[2020.12.08-19.55.59:171][620]PIE: Play in editor total start time 0.156 seconds.
+[2020.12.08-19.56.08:071][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.08-19.56.08:072][567]LogWorld: BeginTearingDown for /Game/Axel/UEDPIE_0_Axel_work
+[2020.12.08-19.56.08:072][567]LogWorld: UWorld::CleanupWorld for Axel_work, bSessionEnded=true, bCleanupResources=true
+[2020.12.08-19.56.08:072][567]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.08-19.56.08:082][567]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.08-19.56.08:086][567]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.08-19.56.08:154][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.08-19.56.08:155][567]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001BAE66BAE80), frame # 136567
+[2020.12.08-19.56.08:155][567]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001BAC373C200), frame # 136567
+[2020.12.08-19.56.08:159][567]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2020.12.08-19.56.08:187][568]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.12.08-19.56.31:597][266]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.12.08-19.56.39:499][804]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_New, compiling. 
+[2020.12.08-19.56.39:548][804]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 44
+[2020.12.08-19.56.39:548][804]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 34
+[2020.12.08-19.56.39:548][804]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2020.12.08-19.56.39:548][804]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2020.12.08-19.56.49:226][383]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.12.08-19.56.49:857][410]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.12.08-19.56.50:245][424]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.12.08-19.56.50:699][455]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.12.08-19.56.52:284][610]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.12.08-19.56.52:927][674]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.12.08-19.56.55:759][955]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2020.12.08-19.57.17:535][854]Cmd: SELECT NONE
+[2020.12.08-19.57.44:269][941]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.08-19.57.44:282][941]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.08-19.57.44:282][941]PIE: New page: PIE session: Axel_work (Dec 8, 2020, 7:57:44 AM)
+[2020.12.08-19.57.44:282][941]LogPlayLevel: Creating play world package: /Game/Axel/UEDPIE_0_Axel_work
+[2020.12.08-19.57.44:298][941]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017055s)
+[2020.12.08-19.57.44:299][941]LogAIModule: Creating AISystem for world Axel_work
+[2020.12.08-19.57.44:299][941]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001BAA27EB600), frame # 145941
+[2020.12.08-19.57.44:299][941]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001BAEFB2B880), frame # 145941
+[2020.12.08-19.57.44:299][941]LogPlayLevel: PIE: World Init took: (0.001154s)
+[2020.12.08-19.57.44:299][941]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Axel/Axel_work.Axel_work to /Game/Axel/UEDPIE_0_Axel_work.Axel_work (0.018342s)
+[2020.12.08-19.57.44:333][941]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2020.12.08-19.57.44:337][941]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.08-19.57.44:337][941]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.08-19.57.44:337][941]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.08-19.57.44:337][941]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.08-19.57.44:337][941]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.08-19.57.44:337][941]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.08-19.57.44:337][941]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.08-19.57.44:337][941]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.08-19.57.44:338][941]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.08-19.57.44:338][941]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.08-19.57.44:342][941]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.08-19.57.44:342][941]LogAudioMixer: Display: 1: FrontRight
+[2020.12.08-19.57.44:342][941]LogAudioMixer: Display: 2: FrontCenter
+[2020.12.08-19.57.44:342][941]LogAudioMixer: Display: 3: LowFrequency
+[2020.12.08-19.57.44:342][941]LogAudioMixer: Display: 4: BackLeft
+[2020.12.08-19.57.44:342][941]LogAudioMixer: Display: 5: BackRight
+[2020.12.08-19.57.44:342][941]LogAudioMixer: Display: 6: SideLeft
+[2020.12.08-19.57.44:342][941]LogAudioMixer: Display: 7: SideRight
+[2020.12.08-19.57.44:383][941]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.12.08-19.57.44:384][941]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.08-19.57.44:384][941]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.08-19.57.44:384][941]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.08-19.57.44:384][941]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.08-19.57.44:398][941]LogInit: FAudioDevice initialized.
+[2020.12.08-19.57.44:409][941]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.12.08-19.57.44:412][941]LogWorld: Bringing World /Game/Axel/UEDPIE_0_Axel_work.Axel_work up for play (max tick rate 0) at 2020.12.08-13.57.44
+[2020.12.08-19.57.44:412][941]LogWorld: Bringing up level for play took: 0.001786
+[2020.12.08-19.57.44:412][941]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2020.12.08-19.57.44:415][941]PIE: Server logged in
+[2020.12.08-19.57.44:416][941]PIE: Play in editor total start time 0.135 seconds.
+[2020.12.08-19.58.03:021][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.08-19.58.03:021][109]LogWorld: BeginTearingDown for /Game/Axel/UEDPIE_0_Axel_work
+[2020.12.08-19.58.03:021][109]LogWorld: UWorld::CleanupWorld for Axel_work, bSessionEnded=true, bCleanupResources=true
+[2020.12.08-19.58.03:021][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.08-19.58.03:031][109]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.08-19.58.03:035][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.08-19.58.03:103][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.08-19.58.03:105][109]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001BAA27EB600), frame # 148109
+[2020.12.08-19.58.03:105][109]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001BAEFB2B880), frame # 148109
+[2020.12.08-19.58.03:108][109]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2020.12.08-19.58.03:135][110]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.12.08-19.58.13:349][273]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2020.12.08-19.58.35:182][227]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.08-19.58.35:207][227]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.08-19.58.35:207][227]PIE: New page: PIE session: Axel_work (Dec 8, 2020, 7:58:35 AM)
+[2020.12.08-19.58.35:207][227]LogPlayLevel: Creating play world package: /Game/Axel/UEDPIE_0_Axel_work
+[2020.12.08-19.58.35:219][227]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012080s)
+[2020.12.08-19.58.35:220][227]LogAIModule: Creating AISystem for world Axel_work
+[2020.12.08-19.58.35:220][227]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001BAAC99E600), frame # 151227
+[2020.12.08-19.58.35:220][227]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001BA96C98A40), frame # 151227
+[2020.12.08-19.58.35:220][227]LogPlayLevel: PIE: World Init took: (0.000981s)
+[2020.12.08-19.58.35:220][227]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Axel/Axel_work.Axel_work to /Game/Axel/UEDPIE_0_Axel_work.Axel_work (0.013168s)
+[2020.12.08-19.58.35:243][227]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2020.12.08-19.58.35:247][227]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.08-19.58.35:247][227]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.08-19.58.35:247][227]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.08-19.58.35:247][227]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.08-19.58.35:247][227]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.08-19.58.35:247][227]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.08-19.58.35:247][227]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.08-19.58.35:247][227]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.08-19.58.35:247][227]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.08-19.58.35:247][227]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.08-19.58.35:251][227]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.08-19.58.35:251][227]LogAudioMixer: Display: 1: FrontRight
+[2020.12.08-19.58.35:251][227]LogAudioMixer: Display: 2: FrontCenter
+[2020.12.08-19.58.35:251][227]LogAudioMixer: Display: 3: LowFrequency
+[2020.12.08-19.58.35:251][227]LogAudioMixer: Display: 4: BackLeft
+[2020.12.08-19.58.35:251][227]LogAudioMixer: Display: 5: BackRight
+[2020.12.08-19.58.35:251][227]LogAudioMixer: Display: 6: SideLeft
+[2020.12.08-19.58.35:251][227]LogAudioMixer: Display: 7: SideRight
+[2020.12.08-19.58.35:288][227]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.12.08-19.58.35:289][227]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.08-19.58.35:289][227]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.08-19.58.35:289][227]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.08-19.58.35:289][227]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.08-19.58.35:303][227]LogInit: FAudioDevice initialized.
+[2020.12.08-19.58.35:311][227]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.12.08-19.58.35:313][227]LogWorld: Bringing World /Game/Axel/UEDPIE_0_Axel_work.Axel_work up for play (max tick rate 0) at 2020.12.08-13.58.35
+[2020.12.08-19.58.35:314][227]LogWorld: Bringing up level for play took: 0.001791
+[2020.12.08-19.58.35:314][227]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2020.12.08-19.58.35:317][227]PIE: Server logged in
+[2020.12.08-19.58.35:318][227]PIE: Play in editor total start time 0.126 seconds.
+[2020.12.08-19.58.37:861][489]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.08-19.58.37:861][489]LogWorld: BeginTearingDown for /Game/Axel/UEDPIE_0_Axel_work
+[2020.12.08-19.58.37:862][489]LogWorld: UWorld::CleanupWorld for Axel_work, bSessionEnded=true, bCleanupResources=true
+[2020.12.08-19.58.37:862][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.08-19.58.37:872][489]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.08-19.58.37:876][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.08-19.58.37:940][489]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.08-19.58.37:941][489]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001BA96C98A40), frame # 151489
+[2020.12.08-19.58.37:941][489]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001BAAC99E600), frame # 151489
+[2020.12.08-19.58.37:945][489]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2020.12.08-19.58.37:975][490]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.12.08-19.59.08:456][768]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2020.12.08-19.59.08:457][768]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.12.08-19.59.10:006][878]LogSlate: Window 'Add C++ Class' being destroyed
+[2020.12.08-20.00.45:553][172]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.12.08-20.01.04:014][102]Cmd: SELECT NONE
+[2020.12.08-20.01.42:593][100]Cmd: TRANSACTION UNDO
+[2020.12.08-20.01.42:593][100]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.12.08-20.01.42:608][100]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.12.08-20.01.46:932][513]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.12.08-20.02.19:787][246]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.12.08-20.03.03:056][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2020.12.08-20.03.03:126][ 91]LogSavePackage: Moving '../../../../Users/axels/OneDrive/Documentos/GIT-progra3/Git-ppa/EpicMegaJam/Dont_sleep/Saved/Axel_work_Auto35EA3F37E4C777313E038778CC6503267.tmp' to '../../../../Users/axels/OneDrive/Documentos/GIT-progra3/Git-ppa/EpicMegaJam/Dont_sleep/Saved/Autosaves/Game/Axel/Axel_work_Auto3.umap'
+[2020.12.08-20.03.03:128][ 91]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Axel/Axel_work' took 0.099
+[2020.12.08-20.03.03:128][ 91]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.099
+[2020.12.08-20.11.43:637][968]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2020.12.08-20.11.43:643][968]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2020.12.08-20.11.43:661][968]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.12.08-20.11.43:661][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.08-20.13.03:225][636]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2020.12.08-20.13.03:232][636]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Axel/Axel_work' took 0.079
+[2020.12.08-20.21.08:509][168]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.12.08-20.21.09:976][320]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.12.08-20.23.03:761][452]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2020.12.08-20.23.03:784][452]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Axel/Axel_work' took 0.104
+[2020.12.08-20.24.52:783][997]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2020.12.08-20.24.52:865][997]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (Mesh2P)
+[2020.12.08-20.24.53:787][ 33]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (Mesh2P)
+[2020.12.08-20.26.26:210][514]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2020.12.08-20.26.27:770][574]LogEditorViewport: Clicking on Component (LMB): CameraComponent (FirstPersonCamera)
+[2020.12.08-20.26.30:728][717]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.12.08-20.26.31:693][769]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2020.12.08-20.26.32:637][817]Cmd: DELETE
+[2020.12.08-20.26.32:637][817]Cmd: ACTOR DELETE
+[2020.12.08-20.26.32:661][817]LogEditorActor: Deleted Actor: FirstPersonCharacter_C
+[2020.12.08-20.26.32:708][817]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2020.12.08-20.26.32:713][817]LogEditorActor: Deleted 1 Actors (0.073 secs)
+[2020.12.08-20.26.43:235][448]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2020.12.08-20.26.43:244][448]LogMetaData: Removing '/Game/Axel/firstperson_Axel/Player_a.SKEL_Player_a_C' ref from Metadata '/Game/Axel/firstperson_Axel/FirstPersonCharacter.PackageMetaData'
+[2020.12.08-20.26.43:244][448]LogMetaData: Removing '/Game/Axel/firstperson_Axel/Player_a.Player_a_C' ref from Metadata '/Game/Axel/firstperson_Axel/FirstPersonCharacter.PackageMetaData'
+[2020.12.08-20.26.43:389][448]LogSavePackage: Moving '../../../../Users/axels/OneDrive/Documentos/GIT-progra3/Git-ppa/EpicMegaJam/Dont_sleep/Saved/Player_aD4D6C6054BACB125A3AB49B78DB643AB.tmp' to '../../../../Users/axels/OneDrive/Documentos/GIT-progra3/Git-ppa/EpicMegaJam/Dont_sleep/Content/Axel/firstperson_Axel/Player_a.uasset'
+[2020.12.08-20.26.43:642][448]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2020.12.08-20.26.43:688][448]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2020.12.08-20.26.43:717][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.12.08-20.26.43:776][448]AssetCheck: New page: Asset Save: Player_a
+[2020.12.08-20.26.43:776][448]LogContentValidation: Display: Validating Blueprint /Game/Axel/firstperson_Axel/Player_a.Player_a
+[2020.12.08-20.26.45:231][524]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Axel/firstperson_Axel/Player_a.Player_a
+[2020.12.08-20.26.52:995][725]LogRenderer: Reallocating scene render targets to support 960x684 Format 10 NumSamples 1 (Frame:1).
+[2020.12.08-20.27.10:227][302]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2020.12.08-20.27.10:265][302]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2020.12.08-20.27.10:534][302]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.12.08-20.27.10:545][302]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0006 seconds. Added 1 classes and 0 folders.
+[2020.12.08-20.27.10:605][302]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.12.08-20.27.16:340][478]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP
+[2020.12.08-20.27.16:359][478]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.12.08-20.27.16:935][478]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.12.08-20.27.59:768][981]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/FirstPerson/Animations/FirstPersonFire_Montage.FirstPersonFire_Montage
+[2020.12.08-20.27.59:795][981]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.12.08-20.27.59:824][981]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.12.08-20.28.32:864][110]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.12.08-20.28.32:864][110]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.08-20.28.34:415][153]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.12.08-20.28.34:415][153]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.08-20.28.34:432][153]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.12.08-20.28.34:432][153]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.08-20.28.34:600][153]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.12.08-20.28.34:600][153]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.08-20.28.36:141][203]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.12.08-20.28.36:141][203]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.08-20.28.36:460][203]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.12.08-20.28.36:460][203]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.08-20.28.39:898][313]LogSlate: Window 'Player_a' being destroyed
+[2020.12.08-20.29.38:031][965]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.12.08-20.33.04:545][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2020.12.08-20.33.04:659][ 63]LogSavePackage: Moving '../../../../Users/axels/OneDrive/Documentos/GIT-progra3/Git-ppa/EpicMegaJam/Dont_sleep/Saved/Axel_work_Auto41BA2E3A34831F397C12E99B1F71C6830.tmp' to '../../../../Users/axels/OneDrive/Documentos/GIT-progra3/Git-ppa/EpicMegaJam/Dont_sleep/Saved/Autosaves/Game/Axel/Axel_work_Auto4.umap'
+[2020.12.08-20.33.04:662][ 63]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Axel/Axel_work' took 0.353
+[2020.12.08-20.33.04:663][ 63]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.353
+[2020.12.08-20.40.59:781][526]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.08-20.43.05:075][929]LogUObjectHash: Compacting FUObjectHashTables data took  10.77ms
+[2020.12.08-20.43.05:084][929]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Axel/Axel_work' took 0.161

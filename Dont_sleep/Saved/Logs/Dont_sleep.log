@@ -1364,3 +1364,57 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.12.08-20.40.59:781][526]LogAudioMixer: Display: Audio Buffer Underrun detected.
 [2020.12.08-20.43.05:075][929]LogUObjectHash: Compacting FUObjectHashTables data took  10.77ms
 [2020.12.08-20.43.05:084][929]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Axel/Axel_work' took 0.161
+[2020.12.08-20.52.01:976][573]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Maps/FirstPersonExampleMap': Can't find file.
+[2020.12.08-20.52.01:977][573]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Maps/FirstPersonExampleMap': Can't find file.
+[2020.12.08-20.52.01:980][573]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap'
+[2020.12.08-20.53.05:499][762]LogUObjectHash: Compacting FUObjectHashTables data took  13.66ms
+[2020.12.08-20.53.05:506][762]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Axel/Axel_work' took 0.076
+[2020.12.08-20.53.41:539][870]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_2': Can't find file.
+[2020.12.08-20.53.41:539][870]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_2': Can't find file.
+[2020.12.08-20.53.41:539][870]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/FirstPersonBP/Blueprints/FirstPersonCharacter_2.FirstPersonCharacter_2'
+[2020.12.08-20.53.41:540][870]LogLinker: Warning: Failed to load '/Game/Mara/BluePrints/FirstPersonCharacter_2_crowch': Can't find file.
+[2020.12.08-20.53.41:540][870]LogLinker: Warning: Failed to load '/Game/Mara/BluePrints/FirstPersonCharacter_2_crowch': Can't find file.
+[2020.12.08-20.53.41:541][870]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Mara/BluePrints/FirstPersonCharacter_2_crowch.FirstPersonCharacter_2_crowch'
+[2020.12.08-20.53.41:541][870]LogLinker: Warning: Failed to load '/Game/Mara/Mara': Can't find file.
+[2020.12.08-20.53.41:541][870]LogLinker: Warning: Failed to load '/Game/Mara/Mara': Can't find file.
+[2020.12.08-20.53.41:541][870]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Mara/Mara.Mara'
+[2020.12.08-20.53.41:542][870]LogLinker: Warning: Failed to load '/Game/monstro': Can't find file.
+[2020.12.08-20.53.41:542][870]LogLinker: Warning: Failed to load '/Game/monstro': Can't find file.
+[2020.12.08-20.53.41:542][870]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/monstro.monstro'
+[2020.12.08-20.53.41:543][870]LogLinker: Warning: Failed to load '/Game/pusheable': Can't find file.
+[2020.12.08-20.53.41:543][870]LogLinker: Warning: Failed to load '/Game/pusheable': Can't find file.
+[2020.12.08-20.53.41:543][870]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/pusheable.pusheable'
+[2020.12.08-20.55.23:231][379]LogSlate: Took 0.013597 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NotoColorEmoji.ttf' (7610K)
+[2020.12.08-20.57.24:197][ 52]LogSlate: Window 'New Plugin' being destroyed
+[2020.12.08-20.57.24:204][ 52]LogSlate: Window 'New Plugin' being destroyed
+[2020.12.08-20.58.04:644][950]LogSlate: Window 'Message' being destroyed
+[2020.12.08-20.58.04:650][950]Message dialog closed, result: Yes, title: Message, text: Plugin 'Git' is a beta version and might be unstable or removed without notice. Please use with caution. Are you sure you want to enable the plugin?
+[2020.12.08-20.58.18:190][200]Cmd: CLOSE_SLATE_MAINFRAME
+[2020.12.08-20.58.18:227][200]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.12.08-20.58.20:059][200]LogSlate: Window 'Save Content' being destroyed
+[2020.12.08-20.59.53:589][124]LogSlate: Window 'Plugins' being destroyed
+[2020.12.08-20.59.53:596][124]LogSlate: Window 'Plugins' being destroyed
+[2020.12.08-20.59.53:596][124]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2020.12.08-21.00.00:683][808]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2020.12.08-21.00.00:684][808]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2020.12.08-21.00.00:684][808]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2020.12.08-21.00.00:684][808]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2020.12.08-21.00.00:684][808]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2020.12.08-21.00.00:684][808]LogWindows: Warning: URL: C:\Users\axels\AppData\Local/Programs/Git/cmd/git.exe version
+[2020.12.08-21.00.00:684][808]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2020.12.08-21.00.00:684][808]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2020.12.08-21.00.00:685][808]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2020.12.08-21.00.00:685][808]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2020.12.08-21.00.00:685][808]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2020.12.08-21.00.00:685][808]LogWindows: Warning: URL: C:\Users\axels\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2020.12.08-21.00.00:685][808]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2020.12.08-21.00.00:685][808]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2020.12.08-21.00.03:378][ 95]LogWindows: Warning: CreateProc failed: Acceso denegado. (0x00000005)
+[2020.12.08-21.00.03:378][ 95]LogWindows: Warning: URL: C:/UE_4.25/Engine/Binaries/Win64/ version
+[2020.12.08-21.14.44:390][566]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2020.12.08-21.14.44:396][566]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Axel/Axel_work' took 0.033
+[2020.12.08-21.25.03:467][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.12.08-21.25.03:470][ 48]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Axel/Axel_work' took 0.031
+[2020.12.08-21.26.42:673][848]SourceControl: Source control is disabled
+[2020.12.08-21.27.54:352][201]SourceControl: Source control is disabled
+[2020.12.08-21.28.00:479][872]LogSlate: Window 'Source Control Login' being destroyed

@@ -73,3 +73,4 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 Dont_sleep/Saved/Logs/Dont_sleep.log
+*.log

@@ -72,5 +72,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+<<<<<<< HEAD
+Dont_sleep/Saved/Config/Windows/Engine.ini
+=======
 Dont_sleep/Saved/Logs/Dont_sleep.log
 *.log
+>>>>>>> main
